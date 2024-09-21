@@ -1,3 +1,6 @@
+# this project is designed for practicing sqlite3 queries
+## movie dataset contains such tables as directors, genres, movies, movies_genres, sqlite_sequence
+
 # SQL Queries
 ## There are many different types of SQL queries:
 
